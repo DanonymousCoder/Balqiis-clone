@@ -1,0 +1,33 @@
+body {
+    margin-top: 0;
+    padding-top: 0;
+  }
+  .head {
+    background-color: grey;
+}
+nav {
+    display: flex;
+    background-color: gray;
+    top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+    align-items: center;
+    padding: 15px;
+}
+.class {
+    color: white;
+    margin-right: 10px;
+}
+.hire {
+    color: white;
+    margin-right: 1100px;
+}
+.do {
+    background-color: white;
+    color: gray;
+    border-radius: 7px;
+    width: 70px;
+    height: 40px;
+    margin-left: 10px;
+}
